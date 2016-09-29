@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=dog()
+comment1.params=
+comment1.target=java.lang.String\ getColour()
+comment2.params=newColour
+comment2.target=void\ setColour(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBreed()
+comment4.params=newBreed
+comment4.target=void\ setBreed(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getOwner()
+comment6.params=newOwner
+comment6.target=void\ setOwner(java.lang.String)
+comment7.params=
+comment7.target=boolean\ getChases()
+comment8.params=newChases
+comment8.target=void\ setChases(boolean)
+comment9.params=
+comment9.target=boolean\ getBarks()
+numComments=10

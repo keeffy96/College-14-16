@@ -1,0 +1,17 @@
+QUESTION 1: What value is x after this method call? Why?
+x is 10 as the method does not return meaning the actual parameter does not change.
+
+Question 2: What value is x after this method call? Why?
+x is 27 as the method returns an int and x is set to that returned int in main.
+
+Question 3: What is the contents of the array after this call? Why?
+10000 20000 30 40 as you do not need to return to edit values of an array.
+
+Question 4: What is the contents of the array after the call? Why?
+10 13 25 30 as the methods are using the static array and don't require a parameter input.
+
+Question5: What is the value of the array after this call? Why?
+10000 20000 30 40 because you are not changing the values of the array in the method.
+
+Question 6: How did we manage to change s1?
+Using a return statement and setting s1 equal to whatever the method returns.
